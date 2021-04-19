@@ -1,10 +1,8 @@
 package wsVideoStore;
-
-// import junit.framework.TestCase;
+//import junit.framework.TestCase;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
-
 import org.junit.Before;
 
 public class VideoStoreTest  {
